@@ -79,7 +79,7 @@ MIT License - see [LICENSE](LICENSE).
 ## Contact
 
 - **Author**: Abubakar Maulani Pungiwale
-- **Email**: your.email@example.com
+- **Email**: abubakarp496@gmail.com
 - **LinkedIn**: [linkedin.com/in/abubakarpungiwale](https://linkedin.com/in/abubakarpungiwale)
 - **Contact**: +91 9321782858
 
