@@ -43,10 +43,6 @@ cd water-quality-prediction
 pip install -r requirements.txt
 ```
 
-### Requirements
-- Python 3.8+
-- Packages: pandas, seaborn, matplotlib, scikit-learn, joblib.
-
 ## Usage
 
 1. Place `water_potability.csv` in the root directory.
