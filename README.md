@@ -82,6 +82,7 @@ MIT License - see [LICENSE](LICENSE).
 - **Email**: your.email@example.com
 - **LinkedIn**: [linkedin.com/in/abubakarpungiwale](https://linkedin.com/in/abubakarpungiwale)
 - **Contact**: +91 9321782858
+
 Connect for ML discussions or data science opportunities!
 
 ---
