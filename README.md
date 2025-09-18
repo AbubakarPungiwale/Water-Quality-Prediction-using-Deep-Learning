@@ -1,4 +1,4 @@
-# Water Quality Prediction Model
+# Water Quality Prediction using Ensemble Learning - Build during Data Scientist Intern at Milestone PLM Solutions Pvt. Ltd., Thane
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/water-quality-prediction?style=social)](https://github.com/abubakarpungiwale/water-quality-prediction/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/water-quality-prediction?style=social)](https://github.com/abubakarpungiwale/water-quality-prediction/network)
